@@ -1,4 +1,4 @@
-# Face-Detection-Model-Using-Deep-Learning
+# Face-Mask-Detection-Model-Using-Deep-Learning
 Created an advanced Face Mask Detection Model designed to
 automatically detect whether individuals in an image or video stream are wearing face masks or not.
 
